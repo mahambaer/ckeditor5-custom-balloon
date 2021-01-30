@@ -57,7 +57,8 @@ Editor.builtinPlugins = [
 	Table,
 	TableToolbar,
 	TextTransformation,
-	Underline
+	Underline,
+	Indent
 ];
 
 export default Editor;
